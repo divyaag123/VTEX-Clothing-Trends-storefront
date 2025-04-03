@@ -83,8 +83,9 @@
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
       "headline": "Sale",
-      "callToActionText": "DISCOVER",
-      "callToActionUrl": "/sale/d",
+      //trying to remove the discover button
+      //"callToActionText": "DISCOVER",
+      //"callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
     }

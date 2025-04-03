@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [6.0.0] - 2024-09-05
+## [5.2.0] - 2024-09-05x
 
 ### Changed
 - `minicart-product-list` in theme to change the default template to use splitItem as false.

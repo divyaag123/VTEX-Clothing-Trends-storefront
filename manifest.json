@@ -1,9 +1,8 @@
 {
   "vendor": "rialtespartnerind",
   "name": "store-theme",
-  "version": "5.2.0",
+  "version": "6.0.0",
   "builders": {
-
     "styles": "2.x",
     "store": "0.x",
     "sitemap": "0.x",
@@ -66,7 +65,8 @@
     "vtex.css-handles": "1.x"
   },
   "peerDependencies": {
-    "vtex.reviews-and-ratings": "3.x"
+    "vtex.reviews-and-ratings": "3.x",
+    "vtexventures.livestreaming": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

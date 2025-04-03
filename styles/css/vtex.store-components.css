@@ -13,10 +13,13 @@
   padding: 0px;
 }
 
-/* to hide discover*/
+/* to hide discover
 .infoCardContainer--info-card-home a {
-  display: none !important;
-}
+  visibility: hidden;
+  pointer-events: none;
+  opacity: 0;
+}*/
+
 
 
 .newsletter {

@@ -74,7 +74,9 @@
   },
 
 
-
+// //trying to remove the discover button
+      //"callToActionText": "DISCOVER",
+      //"callToActionUrl": "/sale/d",
 
   "info-card#home": {
     "props": {
@@ -83,9 +85,7 @@
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
       "headline": "Sale",
-      //trying to remove the discover button
-      //"callToActionText": "DISCOVER",
-      //"callToActionUrl": "/sale/d",
+      
       "blockClass": "info-card-home",
       "textAlignment": "center"
     }
